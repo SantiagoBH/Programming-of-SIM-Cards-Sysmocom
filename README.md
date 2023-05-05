@@ -1,4 +1,5 @@
-# Programming-of-SIM-cards-sysmoISIM
+# Programming-of-SIM-Cards-Sysmocom
+
 To see programming with both programs, check the wiki:
 
 ### PySim
