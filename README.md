@@ -1,6 +1,6 @@
 # Programming-of-SIM-Cards-Sysmocom
 
-To see programming with both programs, check the wiki:
+Go to this [Wiki](https://github.com/SantiagoBH/Programming-of-SIM-Cards-Sysmocom/wiki) to get all information!
 
 ### PySim
 PySim is an open-source SIM card programming tool that allows users to program and manage SIM cards using a computer. The tool supports various types of SIM cards, including programmable SIMs like the ones offered by Sysmocom, as well as regular SIMs and USIMs.
